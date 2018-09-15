@@ -177,4 +177,4 @@ async def Userinfo(ctx, user: discord.Member = None):
 
 
 
-client.run('NDg5NzA2ODgyNzU2MjQ3NTUz.Dnu0aQ.WP4gzmrdTl0wiMCK_stIXig2L0s')
+client.login(process.env.BOT_TOKEN);
